@@ -1,0 +1,687 @@
+[
+  {
+    "name": "The Punisher",
+    "real_name": "Frank Castle",
+    "first_appearance": "The Amazing Spider-Man #129 (1974)",
+    "powers": [
+      "Peak human conditioning",
+      "Tactical genius",
+      "Weapons mastery"
+    ],
+    "popularity_score": 7,
+    "power_level": 4,
+    "notable_feat": "Wages a one-man war on organized crime with no superpowers at all",
+    "why_underdog": "Has a massive fan base but is constantly overshadowed by powered heroes despite relying purely on skill and grit"
+  },
+  {
+    "name": "Moon Knight",
+    "real_name": "Marc Spector",
+    "first_appearance": "Werewolf by Night #32 (1975)",
+    "powers": [
+      "Enhanced strength (variable)",
+      "Multiple personas",
+      "Expert combatant"
+    ],
+    "powers_note": "Power level fluctuates with the moon in some comic depictions",
+    "popularity_score": 6,
+    "power_level": 6,
+    "notable_feat": "Went toe-to-toe with Werewolf by Night and led his own vigilante network",
+    "why_underdog": "Only gained mainstream recognition after his 2022 Disney+ show, despite decades of comic history"
+  },
+  {
+    "name": "Hawkeye",
+    "real_name": "Clint Barton",
+    "first_appearance": "Tales of Suspense #57 (1964)",
+    "powers": [
+      "World-class marksmanship",
+      "Peak human agility"
+    ],
+    "popularity_score": 7,
+    "power_level": 3,
+    "notable_feat": "Has led the Avengers and even briefly wielded Thor's hammer",
+    "why_underdog": "Frequently the punchline for having 'no powers' on a team of gods and super-soldiers"
+  },
+  {
+    "name": "She-Hulk",
+    "real_name": "Jennifer Walters",
+    "first_appearance": "The Savage She-Hulk #1 (1980)",
+    "powers": [
+      "Superhuman strength",
+      "Durability",
+      "Retains intelligence while transformed"
+    ],
+    "popularity_score": 6,
+    "power_level": 8,
+    "notable_feat": "Has held her own against Hulk-level threats while keeping full control of her mind",
+    "why_underdog": "Matches or exceeds her cousin's power but rarely gets equivalent screen time or story focus"
+  },
+  {
+    "name": "Ghost Rider",
+    "real_name": "Johnny Blaze",
+    "first_appearance": "Marvel Spotlight #5 (1972)",
+    "powers": [
+      "Hellfire manipulation",
+      "Penance Stare",
+      "Near invulnerability"
+    ],
+    "popularity_score": 6,
+    "power_level": 8,
+    "notable_feat": "Can judge and punish the guilty with a single terrifying stare",
+    "why_underdog": "Iconic visual design but rarely included in major team crossover storylines"
+  },
+  {
+    "name": "Squirrel Girl",
+    "real_name": "Doreen Green",
+    "first_appearance": "Marvel Super-Heroes Vol. 2 #8 (1991) (also known as the Marvel Super-Heroes Winter Special)",
+    "powers": [
+      "Squirrel-like agility",
+      "Communication with squirrels",
+      "Enhanced strength"
+    ],
+    "popularity_score": 4,
+    "power_level": 6,
+    "notable_feat": "Has defeated Doctor Doom, Thanos, and Wolverine in the comics",
+    "why_underdog": "One of the most quietly powerful characters in Marvel, played almost entirely for comedy"
+  },
+  {
+    "name": "Nightcrawler",
+    "real_name": "Kurt Wagner",
+    "first_appearance": "Giant-Size X-Men #1 (1975)",
+    "powers": [
+      "Teleportation",
+      "Enhanced agility",
+      "Wall-crawling"
+    ],
+    "popularity_score": 5,
+    "power_level": 6,
+    "notable_feat": "Infiltrated the White House solo, teleporting past the entire Secret Service",
+    "why_underdog": "A fan favorite among X-Men readers but frequently sidelined in film adaptations"
+  },
+  {
+    "name": "Jubilee",
+    "real_name": "Jubilation Lee",
+    "first_appearance": "Uncanny X-Men #244 (1989)",
+    "powers": [
+      "Plasma energy projection",
+      "Later gained vampiric abilities"
+    ],
+    "popularity_score": 4,
+    "power_level": 4,
+    "notable_feat": "One of the longest-running X-Men characters despite minimal spotlight",
+    "why_underdog": "Iconic 90s design and mascot status, but rarely given serious storylines"
+  },
+  {
+    "name": "Machine Man",
+    "real_name": "Aaron Stack",
+    "first_appearance": "2001: A Space Odyssey #8 (1977, as Mister Machine)",
+    "powers": [
+      "Superhuman strength",
+      "Flight",
+      "Shapeshifting limbs"
+    ],
+    "popularity_score": 2,
+    "power_level": 7,
+    "notable_feat": "A Jack Kirby creation with cosmic-tier tech abilities",
+    "why_underdog": "Virtually unknown outside dedicated comic readers despite a unique power set"
+  },
+  {
+    "name": "Darkhawk",
+    "real_name": "Chris Powell",
+    "first_appearance": "Darkhawk #1 (1991)",
+    "powers": [
+      "Amulet-based armor transformation",
+      "Energy blasts",
+      "Flight"
+    ],
+    "popularity_score": 2,
+    "power_level": 6,
+    "notable_feat": "A cult-favorite 90s hero with a loyal but small fanbase",
+    "why_underdog": "Almost no modern-day presence despite passionate nostalgia from longtime fans"
+  },
+  {
+    "name": "Nova",
+    "real_name": "Richard Rider",
+    "first_appearance": "Nova #1 (1976)",
+    "powers": [
+      "Cosmic energy manipulation",
+      "Flight",
+      "Superhuman strength"
+    ],
+    "popularity_score": 3,
+    "power_level": 9,
+    "notable_feat": "Served as a member of the Nova Corps, wielding near-limitless cosmic power",
+    "why_underdog": "One of Marvel's most powerful cosmic heroes, yet virtually unknown outside comics"
+  },
+  {
+    "name": "Sleepwalker",
+    "real_name": "Rick Sheridan (host)",
+    "first_appearance": "Sleepwalker #1 (1991)",
+    "powers": [
+      "Dimension-hopping",
+      "Reality warping perception",
+      "Energy manipulation"
+    ],
+    "popularity_score": 1,
+    "power_level": 6,
+    "notable_feat": "Exists as an interdimensional being who can only act through a human host",
+    "why_underdog": "A bizarre, unique concept from the 90s that has almost entirely faded from modern comics"
+  },
+  {
+    "name": "Prowler",
+    "real_name": "Hobie Brown",
+    "first_appearance": "The Amazing Spider-Man #78 (1969)",
+    "powers": [
+      "Peak human agility",
+      "Advanced tech gauntlets and claws"
+    ],
+    "popularity_score": 3,
+    "power_level": 4,
+    "notable_feat": "A Spider-Man ally with his own gadget-based arsenal",
+    "why_underdog": "Rarely gets stories independent of Spider-Man despite a strong individual concept"
+  },
+  {
+    "name": "U.S.Agent",
+    "real_name": "John Walker",
+    "first_appearance": "Captain America #323 (1986, as Super-Patriot)",
+    "powers": [
+      "Superhuman strength",
+      "Durability",
+      "Vibranium-alloy shield"
+    ],
+    "popularity_score": 4,
+    "power_level": 7,
+    "notable_feat": "Briefly served as Captain America before forging his own identity",
+    "why_underdog": "Constantly compared to Captain America rather than judged on his own merits"
+  },
+  {
+    "name": "Stature",
+    "real_name": "Cassie Lang",
+    "first_appearance": "Young Avengers #1 (2005, as Stature; Cassie Lang appeared earlier as a child in Marvel Premiere #47, 1979)",
+    "powers": [
+      "Size-shifting",
+      "Superhuman strength at large size"
+    ],
+    "popularity_score": 3,
+    "power_level": 6,
+    "notable_feat": "A core member of the Young Avengers with a strong legacy-hero arc",
+    "why_underdog": "Overshadowed by her father Ant-Man despite a compelling story of her own"
+  },
+  {
+    "name": "Speedball",
+    "real_name": "Robbie Baldwin",
+    "first_appearance": "Amazing Spider-Man Annual #22 (1988); his formal origin story and solo series continued shortly after in Speedball #1 (1988)",
+    "powers": [
+      "Kinetic energy absorption and release",
+      "Bouncing/impact resistance"
+    ],
+    "popularity_score": 3,
+    "power_level": 5,
+    "notable_feat": "Underwent a dramatic transformation into the darker hero Penance",
+    "why_underdog": "A key figure in Marvel's Civil War storyline, but rarely remembered outside it"
+  },
+  {
+    "name": "Darkstar",
+    "real_name": "Laynia Petrovna",
+    "first_appearance": "The Champions #7 (1976)",
+    "powers": [
+      "Darkforce manipulation",
+      "Flight",
+      "Teleportation"
+    ],
+    "popularity_score": 1,
+    "power_level": 6,
+    "notable_feat": "A founding member of Soviet Super-Soldiers, one of Marvel's few Cold War-era heroes",
+    "why_underdog": "Rarely used since her original era, despite a unique power set and origin"
+  },
+  {
+    "name": "Silverclaw",
+    "real_name": "Maria de Guadalupe Santiago",
+    "first_appearance": "Avengers Vol. 3 #4 (1998)",
+    "powers": [
+      "Shapeshifting",
+      "Superhuman strength",
+      "Elemental abilities"
+    ],
+    "popularity_score": 1,
+    "power_level": 5,
+    "notable_feat": "A Young Avengers-adjacent hero with roots in South American mythology",
+    "why_underdog": "One of the most obscure heroes with an interesting cultural background, rarely explored"
+  },
+  {
+    "name": "Gravity",
+    "real_name": "Greg Willis",
+    "first_appearance": "Gravity #1 (2005)",
+    "powers": [
+      "Gravity manipulation",
+      "Flight",
+      "Force field generation"
+    ],
+    "popularity_score": 1,
+    "power_level": 6,
+    "notable_feat": "Created specifically as a modern homage to classic Silver Age heroes",
+    "why_underdog": "Designed to be an underdog hero from the start, yet still barely appears in modern comics"
+  },
+  {
+    "name": "Elsa Bloodstone",
+    "real_name": "Elsa Bloodstone",
+    "first_appearance": "Bloodstone #1 (2001)",
+    "powers": [
+      "Enhanced strength",
+      "Regeneration",
+      "Monster-hunting expertise"
+    ],
+    "popularity_score": 3,
+    "power_level": 6,
+    "notable_feat": "A monster hunter with a cult following through Nextwave and Marvel Zombies",
+    "why_underdog": "Beloved by a niche fanbase but rarely appears in mainstream storylines or adaptations"
+  },
+  {
+    "name": "Daredevil",
+    "real_name": "Matt Murdock",
+    "first_appearance": "Daredevil #1 (1964)",
+    "powers": [
+      "Radar sense",
+      "Enhanced remaining senses",
+      "Peak human agility"
+    ],
+    "popularity_score": 7,
+    "power_level": 5,
+    "notable_feat": "Runs Hell's Kitchen as a blind lawyer by day and vigilante by night",
+    "why_underdog": "Beloved by fans but consistently overshadowed by cosmic-scale Marvel heroes"
+  },
+  {
+    "name": "Iron Fist",
+    "real_name": "Danny Rand",
+    "first_appearance": "Marvel Premiere #15 (1974)",
+    "powers": [
+      "Chi manipulation",
+      "Superhuman martial arts mastery",
+      "The Iron Fist energy strike"
+    ],
+    "popularity_score": 5,
+    "power_level": 6,
+    "notable_feat": "Defeated the dragon Shou-Lao to earn his signature power",
+    "why_underdog": "Often criticized or overlooked despite a rich mystical martial arts mythology"
+  },
+  {
+    "name": "Luke Cage",
+    "real_name": "Carl Lucas",
+    "first_appearance": "Hero for Hire #1 (1972)",
+    "powers": [
+      "Unbreakable skin",
+      "Superhuman strength",
+      "Rapid healing"
+    ],
+    "popularity_score": 6,
+    "power_level": 6,
+    "notable_feat": "Marvel's first Black superhero to headline his own ongoing series",
+    "why_underdog": "A foundational hero whose historical importance is often undercredited"
+  },
+  {
+    "name": "Mockingbird (originally Huntress)",
+    "real_name": "Bobbi Morse",
+    "first_appearance": "Astonishing Tales #6 (1971, unnamed); named as Barbara Morse: Astonishing Tales #12 (June 1972); first appearance as the Huntress: Marvel Super Action #1 (January 1976); first appearance as Mockingbird: Marvel Team-Up #95 (July 1980).
+    "powers": [
+      "Peak human combat skills",
+      "Expert espionage and tactics"
+    ],
+    "popularity_score": 3,
+    "power_level": 4,
+    "notable_feat": "A former S.H.I.E.L.D. agent and skilled Avengers-level tactician",
+    "why_underdog": "Frequently defined by her relationship to Hawkeye rather than her own career"
+  },
+  {
+    "name": "Falcon",
+    "real_name": "Sam Wilson",
+    "first_appearance": "Captain America #117 (1969)",
+    "powers": [
+      "Flight via wing pack",
+      "Telepathic link with birds",
+      "Combat training"
+    ],
+    "popularity_score": 6,
+    "power_level": 5,
+    "notable_feat": "Marvel's first mainstream African American superhero, later became Captain America",
+    "why_underdog": "Took decades to get mainstream recognition despite a long, significant history"
+  },
+  {
+    "name": "War Machine",
+    "real_name": "James Rhodes",
+    "first_appearance": "Iron Man #118 (1979, as James Rhodes); as War Machine in Iron Man #282 (1992)",
+    "powers": [
+      "Powered armor suit",
+      "Heavy weaponry",
+      "Flight"
+    ],
+    "popularity_score": 5,
+    "power_level": 7,
+    "notable_feat": "Piloted a heavily armed variant of the Iron Man suit into major conflicts",
+    "why_underdog": "Constantly living in Iron Man's shadow despite his own distinct arsenal and story"
+  },
+  {
+    "name": "Vision",
+    "real_name": "Vision",
+    "first_appearance": "The Avengers #57 (1968)",
+    "powers": [
+      "Density manipulation",
+      "Solar energy blasts",
+      "Flight",
+      "Superhuman durability"
+    ],
+    "popularity_score": 5,
+    "power_level": 8,
+    "notable_feat": "An android Avenger capable of phasing through solid matter",
+    "why_underdog": "A powerful and philosophically rich character who rarely leads his own stories"
+  },
+  {
+    "name": "Quicksilver",
+    "real_name": "Pietro Maximoff",
+    "first_appearance": "X-Men #4 (1964)",
+    "powers": [
+      "Superhuman speed",
+      "Rapid reflexes"
+    ],
+    "popularity_score": 5,
+    "power_level": 6,
+    "notable_feat": "One of Marvel's fastest characters, rivaling speedsters from other universes",
+    "why_underdog": "Frequently defined by his relationship to Scarlet Witch rather than his own arcs"
+  },
+  {
+    "name": "Beast",
+    "real_name": "Hank McCoy",
+    "first_appearance": "X-Men #1 (1963)",
+    "powers": [
+      "Superhuman strength and agility",
+      "Genius-level intellect",
+      "Enhanced senses"
+    ],
+    "popularity_score": 4,
+    "power_level": 6,
+    "notable_feat": "A founding X-Man and one of Marvel's leading scientific minds",
+    "why_underdog": "A founding member of the X-Men who rarely gets top billing in adaptations"
+  },
+  {
+    "name": "Cannonball",
+    "real_name": "Sam Guthrie",
+    "first_appearance": "The New Mutants #1 (1983)",
+    "powers": [
+      "Propulsive flight blasts",
+      "Near invulnerability while blasting"
+    ],
+    "popularity_score": 2,
+    "power_level": 6,
+    "notable_feat": "Led multiple young mutant teams including the New Mutants",
+    "why_underdog": "A longtime team leader who rarely gets solo recognition"
+  },
+  {
+    "name": "Sunspot",
+    "real_name": "Roberto da Costa",
+    "first_appearance": "The New Mutants #1 (1983)",
+    "powers": [
+      "Solar energy absorption",
+      "Superhuman strength"
+    ],
+    "popularity_score": 2,
+    "power_level": 6,
+    "notable_feat": "Rose from New Mutant to head of the Hellfire Club and Avengers benefactor",
+    "why_underdog": "A rare wealthy mutant leader whose business/hero double life is rarely explored"
+  },
+  {
+    "name": "Rocket Raccoon",
+    "real_name": "Rocket",
+    "first_appearance": "Marvel Preview #7 (1976)",
+    "powers": [
+      "Genius-level engineering",
+      "Enhanced senses",
+      "Weapons expertise"
+    ],
+    "popularity_score": 6,
+    "power_level": 5,
+    "notable_feat": "A genetically engineered creature who became a galaxy-saving weapons expert",
+    "why_underdog": "Gained popularity mainly through film, with decades of comic history overlooked"
+  },
+  {
+    "name": "Groot",
+    "real_name": "Groot",
+    "first_appearance": "Tales to Astonish #13 (1960)",
+    "powers": [
+      "Regeneration",
+      "Body manipulation",
+      "Superhuman strength"
+    ],
+    "popularity_score": 6,
+    "power_level": 7,
+    "notable_feat": "One of Marvel's oldest characters, predating most major superheroes",
+    "why_underdog": "Existed since 1960 as an obscure monster character before mainstream fame"
+  },
+  {
+    "name": "Adam Warlock",
+    "real_name": "Adam Warlock",
+    "first_appearance": "Fantastic Four #66 (1967, as 'Him')",
+    "powers": [
+      "Cosmic energy manipulation",
+      "Soul Gem access",
+      "Flight"
+    ],
+    "popularity_score": 3,
+    "power_level": 9,
+    "notable_feat": "One of the most powerful cosmic beings in Marvel, tied to the Infinity Gems",
+    "why_underdog": "Despite immense power, rarely appears outside cosmic-focused storylines"
+  },
+  {
+    "name": "Silver Surfer",
+    "real_name": "Norrin Radd",
+    "first_appearance": "Fantastic Four #48 (1966)",
+    "powers": [
+      "Power Cosmic",
+      "Flight",
+      "Energy manipulation"
+    ],
+    "popularity_score": 4,
+    "power_level": 10,
+    "notable_feat": "Wields the Power Cosmic, one of the strongest forces in the Marvel Universe",
+    "why_underdog": "One of Marvel's most powerful beings, yet rarely central to major crossover events"
+  },
+  {
+    "name": "Blade",
+    "real_name": "Eric Brooks",
+    "first_appearance": "Tomb of Dracula #10 (1973)",
+    "powers": [
+      "Vampire-human hybrid physiology",
+      "Enhanced strength and senses",
+      "Immunity to vampirism"
+    ],
+    "popularity_score": 5,
+    "power_level": 6,
+    "notable_feat": "Has hunted vampires for decades, predating Marvel's mainstream horror boom",
+    "why_underdog": "Rarely integrated into mainstream Avengers-level storylines despite iconic status"
+  },
+  {
+    "name": "Iron Man 2020",
+    "real_name": "Arno Stark",
+    "first_appearance": "Machine Man #2 (1984 miniseries), 
+    "powers": [
+      "Advanced Iron Man armor",
+      "Genius-level engineering"
+    ],
+    "popularity_score": 1,
+    "power_level": 7,
+    "notable_feat": "An alternate Stark family armored hero from a dystopian future (Earth-8410) concept",
+    "why_underdog": "A niche variant character almost entirely unknown outside dedicated readers. Unlike the heroic Tony Stark, the original 1984 version of Iron Man 2020 was introduced as a mercenary and corporate-driven antihero.",
+  },
+  {
+    "name": "Firestar",
+    "real_name": "Angelica Jones",
+    "first_appearance": "1981 tv series Spider-Man and His Amazing Friends; Spider-Man and His Amazing Friends #1 (1981)",
+    "powers": [
+      "Microwave radiation projection",
+      "Flight"
+    ],
+    "popularity_score": 3,
+    "power_level": 6,
+    "notable_feat": "A founding member of the New Warriors and an Avenger",
+    "why_underdog": "Best known from a 1980s cartoon, often overlooked in modern comics"
+  },
+  {
+    "name": "Justice",
+    "real_name": "Vance Astrovik",
+    "first_appearance": "Marvel Team-Up #106 (1981)",
+    "powers": [
+      "Telekinesis",
+      "Flight"
+    ],
+    "popularity_score": 1,
+    "power_level": 6,
+    "notable_feat": "A founding New Warrior with strong telekinetic combat feats",
+    "why_underdog": "Rarely appears outside team books despite consistent long-term presence"
+  },
+  {
+    "name": "Triathlon",
+    "real_name": "Delroy Garrett Jr.",
+    "first_appearance": "The Avengers Vol. 3 #10 (1998)",
+    "powers": [
+      "Tripled physical attributes",
+      "Superhuman strength, speed, and stamina"
+    ],
+    "popularity_score": 1,
+    "power_level": 5,
+    "notable_feat": "Joined the Avengers as part of a diversity-focused roster expansion",
+    "why_underdog": "One of the most obscure former Avengers members in modern comics"
+  },
+  {
+    "name": "Wiccan",
+    "real_name": "Billy Kaplan",
+    "first_appearance": "Young Avengers #1 (2005)",
+    "powers": [
+      "Reality-altering magic",
+      "Flight",
+      "Energy projection"
+    ],
+    "popularity_score": 3,
+    "power_level": 8,
+    "notable_feat": "A Young Avenger with power potentially rivaling his namesake, Scarlet Witch",
+    "why_underdog": "Immense power potential largely unexplored outside Young Avengers stories"
+  },
+  {
+    "name": "Hulkling",
+    "real_name": "Teddy Altman",
+    "first_appearance": "Young Avengers #1 (2005)",
+    "powers": [
+      "Shapeshifting",
+      "Superhuman strength",
+      "Rapid healing"
+    ],
+    "popularity_score": 3,
+    "power_level": 7,
+    "notable_feat": "A hybrid Kree-Skrull heir with major galactic political significance",
+    "why_underdog": "Ties to major cosmic bloodlines rarely explored outside niche team books"
+  },
+  {
+    "name": "Patriot",
+    "real_name": "Eli Bradley",
+    "first_appearance": "Young Avengers #1 (2005)",
+    "powers": [
+      "Superhuman strength and durability (temporary, later permanent)"
+    ],
+    "popularity_score": 1,
+    "power_level": 5,
+    "notable_feat": "Grandson of the original Black super-soldier Isaiah Bradley",
+    "why_underdog": "Carries a historically important legacy that's rarely spotlighted"
+  },
+  {
+    "name": "Songbird",
+    "real_name": "Melissa Gold",
+    "first_appearance": "Captain America #232 (1979, as Screaming Mimi)",
+    "powers": [
+      "Sonic energy constructs",
+      "Flight"
+    ],
+    "popularity_score": 1,
+    "power_level": 5,
+    "notable_feat": "A reformed villain who became a leader within the Thunderbolts",
+    "why_underdog": "A compelling redemption arc largely unknown outside Thunderbolts readers"
+  },
+  {
+    "name": "Ms. Marvel",
+    "real_name": "Kamala Khan",
+    "first_appearance": "Captain Marvel Vol. 7 #14 (2013); own title Ms. Marvel #1 (2014)",
+    "powers": [
+      "Polymorph shapeshifting",
+      "Elasticity",
+      "Enhanced healing"
+    ],
+    "popularity_score": 5,
+    "power_level": 6,
+    "notable_feat": "Marvel's first Muslim American character to headline her own series",
+    "why_underdog": "Despite critical acclaim, took years to reach the mainstream audience she deserved"
+  },
+  {
+    "name": "Spider-Woman",
+    "real_name": "Jessica Drew",
+    "first_appearance": "Marvel Spotlight #32 (1977)",
+    "powers": [
+      "Wall-crawling",
+      "Venom blasts",
+      "Enhanced strength and agility"
+    ],
+    "popularity_score": 4,
+    "power_level": 6,
+    "notable_feat": "Predates Spider-Gwen and other spider-themed heroes by decades",
+    "why_underdog": "Frequently confused with or overshadowed by newer spider-themed characters"
+  },
+  {
+    "name": "Black Knight",
+    "real_name": "Dane Whitman",
+    "first_appearance": "The Avengers #47 (1967, as Dane Whitman)",
+    "powers": [
+      "Ebony Blade mastery",
+      "Peak human combat skill"
+    ],
+    "popularity_score": 3,
+    "power_level": 6,
+    "notable_feat": "Wields a cursed sword capable of cutting through nearly anything",
+    "why_underdog": "A longtime Avenger whose mystical weapon storyline rarely takes center stage"
+  },
+  {
+    "name": "Living Lightning",
+    "real_name": "Miguel Santos",
+    "first_appearance": "Avengers West Coast #63 (1990)",
+    "powers": [
+      "Living electricity form",
+      "Flight",
+      "Energy projection"
+    ],
+    "popularity_score": 1,
+    "power_level": 6,
+    "notable_feat": "Served on multiple Avengers rosters as a fully energy-based being",
+    "why_underdog": "A unique energy-based hero with almost no mainstream visibility"
+  },
+  {
+    "name": "Blue Marvel",
+    "real_name": "Adam Brashear",
+    "first_appearance": "Adam: Legend of the Blue Marvel #1 (2008)",
+    "powers": [
+      "Antimatter manipulation",
+      "Superhuman strength",
+      "Flight"
+    ],
+    "popularity_score": 1,
+    "power_level": 10,
+    "notable_feat": "One of the most powerful heroes in Marvel, hidden from the public for decades",
+    "why_underdog": "Deliberately written as historically overlooked in-universe, mirrored by his real-world obscurity"
+  },
+  {
+    "name": "Captain Britain",
+    "real_name": "Brian Braddock",
+    "first_appearance": "Captain Britain Weekly #1 (1976, UK)",
+    "powers": [
+      "Superhuman strength",
+      "Durability",
+      "Flight"
+    ],
+    "popularity_score": 2,
+    "power_level": 7,
+    "notable_feat": "Protector of the entire multiverse in his role tied to the Captain Britain Corps",
+    "why_underdog": "A multiversally important hero with minimal recognition outside UK-focused stories"
+  }
+]
