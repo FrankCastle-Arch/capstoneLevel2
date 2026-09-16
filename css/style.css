@@ -1,5 +1,4 @@
 
-
 :root {
   --comic-yellow: #FFDE00;
   --comic-red: #E63946;
@@ -28,19 +27,22 @@
   color: var(--comic-dark);
   text-align: center;
   font-weight: bold;
+  font-size: 2.1rem;
   padding: 5px;
   text-transform: uppercase;
   transform: rotate(-1deg);
-  margin-bottom: 20px;
+  margin: 0 auto 20px auto;
+  max-width: 500px;margin-bottom: 20px;
 }
 
 .comic-image-panel {
   border: var(--comic-border-thick);
   background-color: var(--comic-cyan);
   overflow: hidden;
-  transform: rotate(1.5deg); /* Tilted panel effect */
+  transform: rotate(1.5deg);
   box-shadow: 5px 5px 0px var(--comic-dark);
   transition: transform 0.2s ease;
+  min-height: 160px;	
 }
 
 .comic-image-panel:hover {
@@ -64,14 +66,6 @@
   box-shadow: 3px 3px 0px var(--comic-dark);
 }
 
-.halftone-bg {
-  background-color: #ffffff;
-  background-image: radial-gradient(var(--comic-dark) 15%, transparent 16%),
-                    radial-gradient(var(--comic-dark) 15%, transparent 16%);
-  background-size: 8px 8px;
-  background-position: 0 0, 4px 4px;
-  opacity: 0.07; /* Soft dot matrix look */
-}
 
 .comic-btn-block {
   display: block;
@@ -92,4 +86,30 @@
 .comic-btn-block:active {
   box-shadow: 1px 1px 0px var(--comic-dark);
   transform: translate(4px, 4px);
+}
+
+nav {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+nav .comic-btn-block {
+  width: auto;
+  flex: 1;
+}
+
+#roulette-button {
+  max-width: 450px;
+  margin: 16px auto 0 auto;
+}
+
+.comic-card p {
+  margin-top: 12px;
+}
+
+.tagline {
+  text-align: center;
+  font-size: 1.3rem;
+  margin-bottom: 24px;
 }

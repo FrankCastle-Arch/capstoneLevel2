@@ -4,6 +4,23 @@
 
 A Marvel fan needs an easy way to discover overlooked characters because most fan content only covers the same handful of A-list heroes. My page will show one random underdog character at a time, along with a stat comparing how powerful they are versus how well-known they are.
 
+## The plan
+
+![My wireframe](wireframe.png)
+
+### Sections
+
+1. Roulette
+2. Rankings
+
+### User input
+
+Button clicks
+
+### Outputs
+
+ The applicaable character from the dataset
+
 ## Data
 
 Dataset: Marvel Underdogs
