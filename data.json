@@ -1,7 +1,8 @@
 [
   {
     "name": "The Punisher",
-    "real_name": "Frank Castle",
+    "real_name": "Frank Castle fka Francis Castiglione",
+    "icon": "💀",
     "first_appearance": "The Amazing Spider-Man #129 (1974)",
     "powers": [
       "Peak human conditioning",
@@ -16,22 +17,25 @@
   {
     "name": "Moon Knight",
     "real_name": "Marc Spector",
+    "icon": "🌙",
     "first_appearance": "Werewolf by Night #32 (1975)",
     "powers": [
       "Enhanced strength (variable)",
       "Multiple personas",
       "Expert combatant"
     ],
-    "powers_note": "Power level fluctuates with the moon in some comic depictions",
     "popularity_score": 6,
     "power_level": 6,
     "notable_feat": "Went toe-to-toe with Werewolf by Night and led his own vigilante network",
-    "why_underdog": "Only gained mainstream recognition after his 2022 Disney+ show, despite decades of comic history"
+    "why_underdog": "Only gained mainstream recognition after his 2022 Disney+ show, despite decades of comic history",
+    "powers_note": "Power level fluctuates with the moon in some comic depictions"
   },
   {
     "name": "Hawkeye",
     "real_name": "Clint Barton",
+    "icon": "🏹",
     "first_appearance": "Tales of Suspense #57 (1964)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)",
     "powers": [
       "World-class marksmanship",
       "Peak human agility"
@@ -44,6 +48,7 @@
   {
     "name": "She-Hulk",
     "real_name": "Jennifer Walters",
+    "icon": "💚",
     "first_appearance": "The Savage She-Hulk #1 (1980)",
     "powers": [
       "Superhuman strength",
@@ -58,6 +63,7 @@
   {
     "name": "Ghost Rider",
     "real_name": "Johnny Blaze",
+    "icon": "🔥",
     "first_appearance": "Marvel Spotlight #5 (1972)",
     "powers": [
       "Hellfire manipulation",
@@ -72,6 +78,7 @@
   {
     "name": "Squirrel Girl",
     "real_name": "Doreen Green",
+    "icon": "🐿️",
     "first_appearance": "Marvel Super-Heroes Vol. 2 #8 (1991) (also known as the Marvel Super-Heroes Winter Special)",
     "powers": [
       "Squirrel-like agility",
@@ -86,7 +93,9 @@
   {
     "name": "Nightcrawler",
     "real_name": "Kurt Wagner",
+    "icon": "💨",
     "first_appearance": "Giant-Size X-Men #1 (1975)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nightcrawler_(character)",
     "powers": [
       "Teleportation",
       "Enhanced agility",
@@ -100,7 +109,9 @@
   {
     "name": "Jubilee",
     "real_name": "Jubilation Lee",
+    "icon": "🎆",
     "first_appearance": "Uncanny X-Men #244 (1989)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Jubilee_(character)",
     "powers": [
       "Plasma energy projection",
       "Later gained vampiric abilities"
@@ -113,6 +124,7 @@
   {
     "name": "Machine Man",
     "real_name": "Aaron Stack",
+    "icon": "🤖",
     "first_appearance": "2001: A Space Odyssey #8 (1977, as Mister Machine)",
     "powers": [
       "Superhuman strength",
@@ -127,6 +139,7 @@
   {
     "name": "Darkhawk",
     "real_name": "Chris Powell",
+    "icon": "🦅",
     "first_appearance": "Darkhawk #1 (1991)",
     "powers": [
       "Amulet-based armor transformation",
@@ -141,7 +154,9 @@
   {
     "name": "Nova",
     "real_name": "Richard Rider",
+    "icon": "🌟",
     "first_appearance": "Nova #1 (1976)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Nova_(Richard_Rider)",
     "powers": [
       "Cosmic energy manipulation",
       "Flight",
@@ -155,7 +170,9 @@
   {
     "name": "Sleepwalker",
     "real_name": "Rick Sheridan (host)",
+    "icon": "😴",
     "first_appearance": "Sleepwalker #1 (1991)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sleepwalker_(character)",
     "powers": [
       "Dimension-hopping",
       "Reality warping perception",
@@ -169,7 +186,9 @@
   {
     "name": "Prowler",
     "real_name": "Hobie Brown",
+    "icon": "🐾",
     "first_appearance": "The Amazing Spider-Man #78 (1969)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Prowler_(Marvel_Comics)",
     "powers": [
       "Peak human agility",
       "Advanced tech gauntlets and claws"
@@ -182,6 +201,7 @@
   {
     "name": "U.S.Agent",
     "real_name": "John Walker",
+    "icon": "🛡️",
     "first_appearance": "Captain America #323 (1986, as Super-Patriot)",
     "powers": [
       "Superhuman strength",
@@ -196,7 +216,9 @@
   {
     "name": "Stature",
     "real_name": "Cassie Lang",
+    "icon": "📏",
     "first_appearance": "Young Avengers #1 (2005, as Stature; Cassie Lang appeared earlier as a child in Marvel Premiere #47, 1979)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Cassie_Lang",
     "powers": [
       "Size-shifting",
       "Superhuman strength at large size"
@@ -209,7 +231,9 @@
   {
     "name": "Speedball",
     "real_name": "Robbie Baldwin",
+    "icon": "⚡",
     "first_appearance": "Amazing Spider-Man Annual #22 (1988); his formal origin story and solo series continued shortly after in Speedball #1 (1988)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Robbie_Baldwin",
     "powers": [
       "Kinetic energy absorption and release",
       "Bouncing/impact resistance"
@@ -222,7 +246,9 @@
   {
     "name": "Darkstar",
     "real_name": "Laynia Petrovna",
+    "icon": "🌑",
     "first_appearance": "The Champions #7 (1976)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Darkstar_(Marvel_Comics)",
     "powers": [
       "Darkforce manipulation",
       "Flight",
@@ -236,6 +262,7 @@
   {
     "name": "Silverclaw",
     "real_name": "Maria de Guadalupe Santiago",
+    "icon": "🐆",
     "first_appearance": "Avengers Vol. 3 #4 (1998)",
     "powers": [
       "Shapeshifting",
@@ -250,7 +277,9 @@
   {
     "name": "Gravity",
     "real_name": "Greg Willis",
+    "icon": "🌍",
     "first_appearance": "Gravity #1 (2005)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gravity_(character)",
     "powers": [
       "Gravity manipulation",
       "Flight",
@@ -264,6 +293,7 @@
   {
     "name": "Elsa Bloodstone",
     "real_name": "Elsa Bloodstone",
+    "icon": "🔫",
     "first_appearance": "Bloodstone #1 (2001)",
     "powers": [
       "Enhanced strength",
@@ -278,7 +308,9 @@
   {
     "name": "Daredevil",
     "real_name": "Matt Murdock",
+    "icon": "🦯",
     "first_appearance": "Daredevil #1 (1964)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)",
     "powers": [
       "Radar sense",
       "Enhanced remaining senses",
@@ -292,7 +324,9 @@
   {
     "name": "Iron Fist",
     "real_name": "Danny Rand",
+    "icon": "👊",
     "first_appearance": "Marvel Premiere #15 (1974)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Iron_Fist_(character)",
     "powers": [
       "Chi manipulation",
       "Superhuman martial arts mastery",
@@ -306,6 +340,7 @@
   {
     "name": "Luke Cage",
     "real_name": "Carl Lucas",
+    "icon": "🧱",
     "first_appearance": "Hero for Hire #1 (1972)",
     "powers": [
       "Unbreakable skin",
@@ -318,9 +353,11 @@
     "why_underdog": "A foundational hero whose historical importance is often undercredited"
   },
   {
-    "name": "Mockingbird (originally Huntress)",
+    "name": "Mockingbird",
     "real_name": "Bobbi Morse",
-    "first_appearance": "Astonishing Tales #6 (1971, unnamed); named as Barbara Morse: Astonishing Tales #12 (June 1972); first appearance as the Huntress: Marvel Super Action #1 (January 1976); first appearance as Mockingbird: Marvel Team-Up #95 (July 1980).
+    "icon": "🕊️",
+    "first_appearance": "Astonishing Tales #6 (1971, unnamed); named as Barbara Morse: Astonishing Tales #12 (June 1972); first appearance as the Huntress: Marvel Super Action #1 (January 1976); first appearance as Mockingbird: Marvel Team-Up #95 (July 1980)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Mockingbird_(Marvel_Comics)",
     "powers": [
       "Peak human combat skills",
       "Expert espionage and tactics"
@@ -333,7 +370,9 @@
   {
     "name": "Falcon",
     "real_name": "Sam Wilson",
+    "icon": "🦅",
     "first_appearance": "Captain America #117 (1969)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Falcon_(comics)",
     "powers": [
       "Flight via wing pack",
       "Telepathic link with birds",
@@ -347,6 +386,7 @@
   {
     "name": "War Machine",
     "real_name": "James Rhodes",
+    "icon": "⚙️",
     "first_appearance": "Iron Man #118 (1979, as James Rhodes); as War Machine in Iron Man #282 (1992)",
     "powers": [
       "Powered armor suit",
@@ -361,7 +401,9 @@
   {
     "name": "Vision",
     "real_name": "Vision",
+    "icon": "💎",
     "first_appearance": "The Avengers #57 (1968)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)",
     "powers": [
       "Density manipulation",
       "Solar energy blasts",
@@ -376,20 +418,24 @@
   {
     "name": "Quicksilver",
     "real_name": "Pietro Maximoff",
+    "icon": "💨",
     "first_appearance": "X-Men #4 (1964)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Quicksilver_(Marvel_Comics)",
     "powers": [
       "Superhuman speed",
       "Rapid reflexes"
     ],
     "popularity_score": 5,
     "power_level": 6,
-    "notable_feat": "One of Marvel's fastest characters, rivaling speedsters from other universes",
+    "notable_feat": "One of Marvel's fastest characters, rivaling speedsters from other universes, and twin brother of Scarlet Witch",
     "why_underdog": "Frequently defined by his relationship to Scarlet Witch rather than his own arcs"
   },
   {
     "name": "Beast",
     "real_name": "Hank McCoy",
+    "icon": "🦁",
     "first_appearance": "X-Men #1 (1963)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Beast_(Marvel_Comics)",
     "powers": [
       "Superhuman strength and agility",
       "Genius-level intellect",
@@ -403,7 +449,9 @@
   {
     "name": "Cannonball",
     "real_name": "Sam Guthrie",
+    "icon": "🚀",
     "first_appearance": "The New Mutants #1 (1983)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Gravity_(character)",
     "powers": [
       "Propulsive flight blasts",
       "Near invulnerability while blasting"
@@ -416,7 +464,9 @@
   {
     "name": "Sunspot",
     "real_name": "Roberto da Costa",
+    "icon": "☀️",
     "first_appearance": "The New Mutants #1 (1983)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Sunspot_(Marvel_Comics)",
     "powers": [
       "Solar energy absorption",
       "Superhuman strength"
@@ -429,6 +479,7 @@
   {
     "name": "Rocket Raccoon",
     "real_name": "Rocket",
+    "icon": "🦝",
     "first_appearance": "Marvel Preview #7 (1976)",
     "powers": [
       "Genius-level engineering",
@@ -443,6 +494,7 @@
   {
     "name": "Groot",
     "real_name": "Groot",
+    "icon": "🌳",
     "first_appearance": "Tales to Astonish #13 (1960)",
     "powers": [
       "Regeneration",
@@ -457,6 +509,7 @@
   {
     "name": "Adam Warlock",
     "real_name": "Adam Warlock",
+    "icon": "✨",
     "first_appearance": "Fantastic Four #66 (1967, as 'Him')",
     "powers": [
       "Cosmic energy manipulation",
@@ -471,6 +524,7 @@
   {
     "name": "Silver Surfer",
     "real_name": "Norrin Radd",
+    "icon": "🏄",
     "first_appearance": "Fantastic Four #48 (1966)",
     "powers": [
       "Power Cosmic",
@@ -485,7 +539,9 @@
   {
     "name": "Blade",
     "real_name": "Eric Brooks",
+    "icon": "🧛",
     "first_appearance": "Tomb of Dracula #10 (1973)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Blade_(character)",
     "powers": [
       "Vampire-human hybrid physiology",
       "Enhanced strength and senses",
@@ -499,7 +555,8 @@
   {
     "name": "Iron Man 2020",
     "real_name": "Arno Stark",
-    "first_appearance": "Machine Man #2 (1984 miniseries), 
+    "icon": "🦾",
+    "first_appearance": "Machine Man #2 (1984 miniseries)",
     "powers": [
       "Advanced Iron Man armor",
       "Genius-level engineering"
@@ -507,12 +564,14 @@
     "popularity_score": 1,
     "power_level": 7,
     "notable_feat": "An alternate Stark family armored hero from a dystopian future (Earth-8410) concept",
-    "why_underdog": "A niche variant character almost entirely unknown outside dedicated readers. Unlike the heroic Tony Stark, the original 1984 version of Iron Man 2020 was introduced as a mercenary and corporate-driven antihero.",
+    "why_underdog": "A niche variant character almost entirely unknown outside dedicated readers. Unlike the heroic Tony Stark, the original 1984 version of Iron Man 2020 was introduced as a mercenary and corporate-driven antihero."
   },
   {
     "name": "Firestar",
     "real_name": "Angelica Jones",
+    "icon": "🔥",
     "first_appearance": "1981 tv series Spider-Man and His Amazing Friends; Spider-Man and His Amazing Friends #1 (1981)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Firestar_(Marvel_Comics)",
     "powers": [
       "Microwave radiation projection",
       "Flight"
@@ -525,7 +584,9 @@
   {
     "name": "Justice",
     "real_name": "Vance Astrovik",
+    "icon": "⚖️",
     "first_appearance": "Marvel Team-Up #106 (1981)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Vance_Astrovik",
     "powers": [
       "Telekinesis",
       "Flight"
@@ -538,7 +599,9 @@
   {
     "name": "Triathlon",
     "real_name": "Delroy Garrett Jr.",
+    "icon": "🏃",
     "first_appearance": "The Avengers Vol. 3 #10 (1998)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Delroy_Garrett",
     "powers": [
       "Tripled physical attributes",
       "Superhuman strength, speed, and stamina"
@@ -551,6 +614,7 @@
   {
     "name": "Wiccan",
     "real_name": "Billy Kaplan",
+    "icon": "🔮",
     "first_appearance": "Young Avengers #1 (2005)",
     "powers": [
       "Reality-altering magic",
@@ -559,12 +623,13 @@
     ],
     "popularity_score": 3,
     "power_level": 8,
-    "notable_feat": "A Young Avenger with power potentially rivaling his namesake, Scarlet Witch",
+    "notable_feat": "A Young Avenger with power potentially rivaling his mother, Scarlet Witch (father is Vision), twin brother is Speed, and husband is Hulkling (togther, the couple is a fairly popular LGBTQ+ couple)",
     "why_underdog": "Immense power potential largely unexplored outside Young Avengers stories"
   },
   {
     "name": "Hulkling",
     "real_name": "Teddy Altman",
+    "icon": "🐉",
     "first_appearance": "Young Avengers #1 (2005)",
     "powers": [
       "Shapeshifting",
@@ -573,13 +638,15 @@
     ],
     "popularity_score": 3,
     "power_level": 7,
-    "notable_feat": "A hybrid Kree-Skrull heir with major galactic political significance",
+    "notable_feat": "A hybrid Kree-Skrull heir with major galactic political significance, married to Wiccan",
     "why_underdog": "Ties to major cosmic bloodlines rarely explored outside niche team books"
   },
   {
     "name": "Patriot",
     "real_name": "Eli Bradley",
+    "icon": "🎖️",
     "first_appearance": "Young Avengers #1 (2005)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Patriot_(Marvel_Comics)",
     "powers": [
       "Superhuman strength and durability (temporary, later permanent)"
     ],
@@ -591,7 +658,9 @@
   {
     "name": "Songbird",
     "real_name": "Melissa Gold",
+    "icon": "🎵",
     "first_appearance": "Captain America #232 (1979, as Screaming Mimi)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Songbird_(character)",
     "powers": [
       "Sonic energy constructs",
       "Flight"
@@ -604,6 +673,7 @@
   {
     "name": "Ms. Marvel",
     "real_name": "Kamala Khan",
+    "icon": "💫",
     "first_appearance": "Captain Marvel Vol. 7 #14 (2013); own title Ms. Marvel #1 (2014)",
     "powers": [
       "Polymorph shapeshifting",
@@ -618,6 +688,7 @@
   {
     "name": "Spider-Woman",
     "real_name": "Jessica Drew",
+    "icon": "🕷️",
     "first_appearance": "Marvel Spotlight #32 (1977)",
     "powers": [
       "Wall-crawling",
@@ -632,7 +703,9 @@
   {
     "name": "Black Knight",
     "real_name": "Dane Whitman",
+    "icon": "⚔️",
     "first_appearance": "The Avengers #47 (1967, as Dane Whitman)",
+    "wiki_url": "https://en.wikipedia.org/wiki/Black_Knight_(Marvel_Comics)",
     "powers": [
       "Ebony Blade mastery",
       "Peak human combat skill"
@@ -645,6 +718,7 @@
   {
     "name": "Living Lightning",
     "real_name": "Miguel Santos",
+    "icon": "⚡",
     "first_appearance": "Avengers West Coast #63 (1990)",
     "powers": [
       "Living electricity form",
@@ -659,6 +733,7 @@
   {
     "name": "Blue Marvel",
     "real_name": "Adam Brashear",
+    "icon": "🔵",
     "first_appearance": "Adam: Legend of the Blue Marvel #1 (2008)",
     "powers": [
       "Antimatter manipulation",
@@ -673,6 +748,7 @@
   {
     "name": "Captain Britain",
     "real_name": "Brian Braddock",
+    "icon": "🇬🇧",
     "first_appearance": "Captain Britain Weekly #1 (1976, UK)",
     "powers": [
       "Superhuman strength",

@@ -6,9 +6,13 @@
     <title>The Overlooked & Overpowered: Marvel Edition</title>
     <link rel="stylesheet" href="css/comic-ui.css">
 	<link rel="stylesheet" href="css/style.css">
+<script src="scripts/app.js" type="module"></script>
 	</head>
 <body>
-	  
+	<img src="marvelimg1.png" alt=" vintage comic book tops" class="side-panel side-panel--left">
+	<img src="marvelimg2.png" alt="superhero strips" class="side-panel side-panel--right">
+	<br>
+	<br> 
     <div class="comic-header-banner">Overlooked & Overpowered</div>
     <p class="tagline">Power doesn't always make the headlines.</p>
   
@@ -22,15 +26,32 @@
 
     <!-- ROULETTE VIEW -->
     <section id="roulette-view">
-      <div class="comic-card">
+		<br>
+		<br>
+		<br>
+		<br>
+	  <div class="comic-card" id="intro-card">
+		
+		  <div class="k-speech-bubble">DID YOU KNOW?</div>
+			<center>
+			
+		    <br>			
+			<p>50 Marvel characters. <br>
+			Some can level cities. <br>
+			Most fans have never heard their name.</p>
+			</center>
+	  </div>
+
+      <div class="comic-card"  id="character-card" hidden>
         <div class="comic-header-banner" id="char-popularity-badge">POPULARITY</div>
 
         <div class="comic-image-panel">
-          <img id="char-image" src="" alt="">
+          <span id="char-icon"></span>
         </div>
         <div class="comic-caption-box" id="char-name">Press the button</div>
 
         <p id="char-real-name"></p>
+		<p><a id="char-link" href="" target="_blank" rel="noopener noreferrer">Learn more about this character</a></p>
         <p id="char-first-appearance"></p>
         <p id="char-powers"></p>
         <p id="char-notable-feat"></p>
@@ -38,10 +59,11 @@
         <p>Power level: <span id="char-power"></span></p>
       </div>
 
-      <button class="comic-btn-block" id="roulette-button">Spin for a character</button>
+      <button class="comic-btn-block" id="roulette-button" hidden>Spin for a character</button>
     </section>
 
     <!-- RANKINGS VIEW -->
+	<center>
     <section id="rankings-view" hidden>
       <label for="sort-select">Sort by:</label>
       <select id="sort-select">
@@ -49,7 +71,7 @@
         <option value="power">Power level</option>
         <option value="popularity">Popularity</option>
       </select>
-
+	
       <table>
         <thead>
           <tr>
@@ -63,7 +85,7 @@
           
         </tbody>
       </table>
-      
+      </center>
     </section>
     </main>
   </body>
